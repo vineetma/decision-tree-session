@@ -1,2 +1,3 @@
 # decision-tree-session
-session on decision trees with complete hands-on
+
+Please refer to the discussion on decisiont tree for demonstration of calculations in images/*.excalidraw (excalidraw.com)
